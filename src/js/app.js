@@ -45,10 +45,6 @@ const expValidate = (text) => {
     }
 }
 
-// console.log(expValidate("HOLA")); // true
-// console.log(expValidate("hola")); // false
-
-
 // FUNCTION
 function initWordBox() {
 
@@ -107,23 +103,6 @@ function wordsEntered(arr = [], CSSclass = "") {
 
     body_box.innerHTML = element;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // Sound screen index.html
 var cont = 0;
@@ -201,6 +180,3 @@ function activeModeSoundGame(type_msg = "", vol_sound = 0.5) {
     sound.play();
 
 }
-
-
-
