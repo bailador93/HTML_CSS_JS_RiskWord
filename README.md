@@ -16,6 +16,6 @@ To run this app you must do this:
 ## Used Libraries
 
 ```bash
-  Font Awesome VERSON ^6.1.1
+  Font Awesome VERSION ^6.1.1
   Howler JS VERSION 2.2.3
 ```
